@@ -1,0 +1,7 @@
+D:\c# exercise\if and any other thing\if and any other thing\bin\Debug\if and any other thing.exe.config
+D:\c# exercise\if and any other thing\if and any other thing\bin\Debug\if and any other thing.exe
+D:\c# exercise\if and any other thing\if and any other thing\bin\Debug\if and any other thing.pdb
+D:\c# exercise\if and any other thing\if and any other thing\obj\Debug\if and any other thing.csproj.AssemblyReference.cache
+D:\c# exercise\if and any other thing\if and any other thing\obj\Debug\if and any other thing.csproj.CoreCompileInputs.cache
+D:\c# exercise\if and any other thing\if and any other thing\obj\Debug\if and any other thing.exe
+D:\c# exercise\if and any other thing\if and any other thing\obj\Debug\if and any other thing.pdb

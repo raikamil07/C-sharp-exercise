@@ -1,0 +1,7 @@
+D:\c# exercise\storinguserdata\storinguserdata\bin\Debug\storinguserdata.exe.config
+D:\c# exercise\storinguserdata\storinguserdata\bin\Debug\storinguserdata.exe
+D:\c# exercise\storinguserdata\storinguserdata\bin\Debug\storinguserdata.pdb
+D:\c# exercise\storinguserdata\storinguserdata\obj\Debug\storinguserdata.csproj.AssemblyReference.cache
+D:\c# exercise\storinguserdata\storinguserdata\obj\Debug\storinguserdata.csproj.CoreCompileInputs.cache
+D:\c# exercise\storinguserdata\storinguserdata\obj\Debug\storinguserdata.exe
+D:\c# exercise\storinguserdata\storinguserdata\obj\Debug\storinguserdata.pdb

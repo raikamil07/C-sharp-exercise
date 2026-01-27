@@ -1,0 +1,14 @@
+C:\Users\Raihan\source\repos\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe.config
+C:\Users\Raihan\source\repos\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe
+C:\Users\Raihan\source\repos\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.pdb
+C:\Users\Raihan\source\repos\MyFirstProject\MyFirstProject\obj\Debug\datatypes.csproj.AssemblyReference.cache
+C:\Users\Raihan\source\repos\MyFirstProject\MyFirstProject\obj\Debug\datatypes.csproj.CoreCompileInputs.cache
+C:\Users\Raihan\source\repos\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.exe
+C:\Users\Raihan\source\repos\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.pdb
+D:\c# exercise\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe.config
+D:\c# exercise\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe
+D:\c# exercise\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.pdb
+D:\c# exercise\MyFirstProject\MyFirstProject\obj\Debug\datatypes.csproj.AssemblyReference.cache
+D:\c# exercise\MyFirstProject\MyFirstProject\obj\Debug\datatypes.csproj.CoreCompileInputs.cache
+D:\c# exercise\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.exe
+D:\c# exercise\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.pdb

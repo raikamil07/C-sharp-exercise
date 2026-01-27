@@ -1,0 +1,7 @@
+D:\c# exercise\operators\operators\bin\Debug\operators.exe.config
+D:\c# exercise\operators\operators\bin\Debug\operators.exe
+D:\c# exercise\operators\operators\bin\Debug\operators.pdb
+D:\c# exercise\operators\operators\obj\Debug\operators.csproj.AssemblyReference.cache
+D:\c# exercise\operators\operators\obj\Debug\operators.csproj.CoreCompileInputs.cache
+D:\c# exercise\operators\operators\obj\Debug\operators.exe
+D:\c# exercise\operators\operators\obj\Debug\operators.pdb

@@ -1,0 +1,7 @@
+D:\c# exercise\input_output\input_output\bin\Debug\input_output.exe.config
+D:\c# exercise\input_output\input_output\bin\Debug\input_output.exe
+D:\c# exercise\input_output\input_output\bin\Debug\input_output.pdb
+D:\c# exercise\input_output\input_output\obj\Debug\input_output.csproj.AssemblyReference.cache
+D:\c# exercise\input_output\input_output\obj\Debug\input_output.csproj.CoreCompileInputs.cache
+D:\c# exercise\input_output\input_output\obj\Debug\input_output.exe
+D:\c# exercise\input_output\input_output\obj\Debug\input_output.pdb
