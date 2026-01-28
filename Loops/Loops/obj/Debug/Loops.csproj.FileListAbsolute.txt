@@ -1,0 +1,7 @@
+D:\Latihan C#\Loops\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+D:\Latihan C#\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+D:\Latihan C#\Loops\Loops\bin\Debug\Loops.exe.config
+D:\Latihan C#\Loops\Loops\bin\Debug\Loops.exe
+D:\Latihan C#\Loops\Loops\bin\Debug\Loops.pdb
+D:\Latihan C#\Loops\Loops\obj\Debug\Loops.exe
+D:\Latihan C#\Loops\Loops\obj\Debug\Loops.pdb
